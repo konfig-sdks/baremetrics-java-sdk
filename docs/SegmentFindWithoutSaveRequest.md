@@ -1,0 +1,13 @@
+
+
+# SegmentFindWithoutSaveRequest
+
+
+## Properties
+
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**query** | [**List&lt;SegmentCreateRequestRequestQueryInner&gt;**](SegmentCreateRequestRequestQueryInner.md) |  |  |
+
+
+
